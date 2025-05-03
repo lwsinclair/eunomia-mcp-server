@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/whataboutyou-ai-eunomia-mcp-server-badge.png)](https://mseep.ai/app/whataboutyou-ai-eunomia-mcp-server)
+
 > [!WARNING]
 > This MCP server is deprecated as it is not compatible with the latest developments of [Eunomia][eunomia-repo]. A new MCP integration is under development and will be available soon.
 
